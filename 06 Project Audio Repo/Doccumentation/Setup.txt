@@ -1,0 +1,11 @@
+1:All Sound Effects which are stage dependent are in stage_stagename.csb.
+
+2:All Gimmicks which have to be replace i.e springs the chopper in Kingdomvalley are in their respective stage_stagename.csb.
+
+3:Classic Spring sound which are their own specific gimmick have to be replaced via 420OBJ_cmn.csb. Do not change the cuename or synth name it will break the sound completely.
+
+4:The csbs are stored in the stage.ar.00 with no hashtags.
+
+5:Any csbs in the ar will be loaded FIRST compared to everything else.
+
+6:DO NOT use cmn_200.ar.00 and the csbs inside that ar for anything as they will be loaded first because they’re common.
