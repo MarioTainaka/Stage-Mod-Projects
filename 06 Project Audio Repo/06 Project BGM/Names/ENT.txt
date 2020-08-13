@@ -1,3 +1,0 @@
-Dev_Boot_ent: Greenhill_Classic
-
-Ident:10
