@@ -5,15 +5,13 @@
 
 ## Apotos Adventure Pack 3.0.4
 
-- Fixed a bug with the hub welcome text caused by the last update. The text should now display properly.
-
+- Fixed a bug with the hub welcome text caused by the last update.
 - Act 1 Stage Gate has been moved to near the swimming pool for easier access.
 
 
 ## Apotos Adventure Pack 3.0.3
 
 - Added support for Japanese, French, German, Spanish and Italian.
- 
 - Added the ETF Sign from Sonic Unleashed in the hub. Only for cosmetic purpose as it doesn't do anything.
 
 
