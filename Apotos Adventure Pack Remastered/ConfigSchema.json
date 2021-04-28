@@ -1,0 +1,145 @@
+{
+   "Groups": [
+      {
+         "Name": "Main",
+         "DisplayName": "Options",
+         "Elements": [
+            
+           
+             
+            {
+               "Name": "IncludeDir4",
+               "DisplayName": "Jump Selector Button Icons",
+               "Description": [
+                  "Determine the button prompts for the Jump Selectors (Unleashed Objects must be enabled!)",
+               ],
+               "Type": "UiEnum",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "core_btnui"
+            },
+            
+            
+            
+            {
+               "Name": "IncludeDir2",
+               "DisplayName": "Unleashed Physics",
+               "Description": [
+                  "Enable Sonic Unleashed Physics, which drastically changes Sonic's physics such as longer homing attack, air boost and air dash",
+               ],
+               "Type": "PhysicsEnum",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "core_dummy"
+            },
+
+            {
+               "Name": "IncludeDir1",
+               "DisplayName": "Sonic Unleashed Objects",
+               "Description": [
+                  "Enable Sonic Unleashed objects throughout the stages",
+               ],
+               "Type": "ObjEnum",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "core_su_obj"
+            },
+			
+			{
+               "Name": "IncludeDir0",
+               "DisplayName": "Hub World Time of Day",
+               "Description": [
+                  "Experience Apotos Hub world during day time or night time",
+               ],
+               "Type": "NightEnum",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "core_su_night"
+            },
+         ]
+      }
+   ],
+   
+   "Enums": {
+
+      "ObjEnum": [
+         {
+            "DisplayName": "Enable",
+            "Value": "core_su_obj",
+            "Description": [
+               "Enable Sonic Unleashed Objects",
+            ]
+         },
+         
+         {
+            "DisplayName": "Disable",
+            "Value": "core_dummy",
+            "Description": [
+               "Disable Sonic Unleashed Objects",
+            ]
+         },
+      ],
+
+      "UiEnum": [
+         {
+            "DisplayName": "PlayStation 3",
+            "Value": "core_btnui",
+            "Description": [
+               "PlayStation 3 button prompts",
+            ]
+         },
+         
+         {
+            "DisplayName": "XBOX 360",
+            "Value": "core_dummy",
+            "Description": [
+               "Xbox 360 button prompts",
+            ]
+         },
+      ],
+	  
+      "PhysicsEnum": [
+         {
+            "DisplayName": "Enable",
+            "Value": "core_su_phy",
+            "Description": [
+               "Enable Sonic Unleashed Physics",
+            ]
+         },
+         {
+            "DisplayName": "Disable",
+            "Value": "core_dummy",
+            "Description": [
+               "Disable Sonic Unleashed Physics, default Generations physics will be used in all stages",
+            ]
+         },        
+      ],
+	  
+	  "NightEnum": [
+         {
+            "DisplayName": "Night time (Unleashed objects enabled)",
+            "Value": "core_su_night",
+            "Description": [
+               "Switch Apotos hub to night time (Unleashed objects must be enabled!)",
+            ]
+         },
+         
+         {
+            "DisplayName": "Night time (Unleashed objects disabled)",
+            "Value": "core_sg_night",
+            "Description": [
+               "Switch Apotos hub to night time (Unleashed objects must be disabled!)",
+            ]
+         },
+		 
+		 {
+            "DisplayName": "Day time",
+            "Value": "core_dummy",
+            "Description": [
+               "Switch Apotos hub to day time",
+            ]
+         },
+      ],
+   },
+   "IniFile": "mod.ini"
+}
