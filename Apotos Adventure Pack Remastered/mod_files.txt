@@ -1,0 +1,4 @@
+add mod.ini
+add ConfigSchema.json
+add core_main\disk\bb2\pam000.ar.00
+add core_main\disk\bb2\pam000.arl
