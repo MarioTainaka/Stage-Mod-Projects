@@ -1,3 +1,8 @@
+## Apotos Adventure Pack 3.5.3
+
+- Thumbnail preview for Act 1 no longer displaying noise.
+
+
 ## Apotos Adventure Pack 3.5.2
 
 - Fixed skybox brightness.

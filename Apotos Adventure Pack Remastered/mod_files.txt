@@ -4,5 +4,7 @@ add core_main\disk\bb\#SystemCommon.ar.00
 add core_main\disk\bb\#SystemCommon.arl
 add core_main\disk\bb2\pam000.ar.00
 add core_main\disk\bb2\pam000.arl
+add core_main\disk\bb2\StageGate.ar.00
+add core_main\disk\bb2\StageGate.arl
 add core_su_phy\disk\bb\#SystemCommon.ar.00
 add core_su_phy\disk\bb\#SystemCommon.arl
