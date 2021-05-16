@@ -1,6 +1,12 @@
+## Apotos Adventure Pack 3.5.4
+
+- Unleashed's full-scale left stick control is no longer exclusive to Unleashed Physics option, is always available.
+- Changed to intro logo to the normal one due to the custom logo receiving negative feedback.
+
+
 ## Apotos Adventure Pack 3.5.3
 
-- Thumbnail preview for Act 1 no longer displaying noise.
+- Thumbnail preview for Act 1 no longer always displays noise.
 
 
 ## Apotos Adventure Pack 3.5.2
