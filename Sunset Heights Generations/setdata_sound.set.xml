@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <SetObject>
   <SoundPoint>
     <BaseVolume>1</BaseVolume>
@@ -1136,7 +1136,7 @@
     <CueName>side_fire</CueName>
     <InsideRadius>10</InsideRadius>
     <IntervalTime>5</IntervalTime>
-    <FileName>42AMB_GHZ</FileName>
+    <FileName>amb_w3</FileName>
     <IsRegularly>false</IsRegularly>
     <Radius>60</Radius>
     <Position>
@@ -1160,7 +1160,7 @@
     <CueName>side_fire</CueName>
     <InsideRadius>10</InsideRadius>
     <IntervalTime>5</IntervalTime>
-    <FileName>42AMB_GHZ</FileName>
+    <FileName>amb_w3</FileName>
     <IsRegularly>false</IsRegularly>
     <Radius>60</Radius>
     <Position>
