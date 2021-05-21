@@ -22,7 +22,7 @@
       <z>0</z>
       <w>1</w>
     </Rotation>
-    <SetObjectID>1</SetObjectID>
+    <SetObjectID>1005</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.7</BaseVolume>
@@ -36,17 +36,17 @@
     <Radius>17</Radius>
     <Range>20</Range>
     <Position>
-      <x>108.728</x>
-      <y>205.3</y>
-      <z>291.626</z>
+      <x>111.967</x>
+      <y>205.466</y>
+      <z>289.095</z>
     </Position>
     <Rotation>
       <x>0</x>
-      <y>0</y>
+      <y>0.325668</y>
       <z>0</z>
-      <w>1</w>
+      <w>0.945484</w>
     </Rotation>
-    <SetObjectID>3</SetObjectID>
+    <SetObjectID>1006</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.7</BaseVolume>
@@ -60,17 +60,17 @@
     <Radius>17</Radius>
     <Range>20</Range>
     <Position>
-      <x>28.2036</x>
+      <x>28.9605</x>
       <y>205.217</y>
-      <z>183.199</z>
+      <z>182.889</z>
     </Position>
     <Rotation>
       <x>0</x>
-      <y>0</y>
+      <y>0.19306</y>
       <z>0</z>
-      <w>1</w>
+      <w>0.981187</w>
     </Rotation>
-    <SetObjectID>4</SetObjectID>
+    <SetObjectID>1007</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.4</BaseVolume>
@@ -94,7 +94,7 @@
       <z>0</z>
       <w>1</w>
     </Rotation>
-    <SetObjectID>2</SetObjectID>
+    <SetObjectID>1008</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.4</BaseVolume>
@@ -114,11 +114,11 @@
     </Position>
     <Rotation>
       <x>0</x>
-      <y>0</y>
+      <y>0.0801223</y>
       <z>0</z>
-      <w>1</w>
+      <w>0.996785</w>
     </Rotation>
-    <SetObjectID>5</SetObjectID>
+    <SetObjectID>1009</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.4</BaseVolume>
@@ -142,7 +142,7 @@
       <z>0</z>
       <w>1</w>
     </Rotation>
-    <SetObjectID>6</SetObjectID>
+    <SetObjectID>1010</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.4</BaseVolume>
@@ -158,7 +158,7 @@
     <Position>
       <x>1210.6</x>
       <y>85.1947</y>
-      <z>-206.442</z>
+      <z>-202.558</z>
     </Position>
     <Rotation>
       <x>0</x>
@@ -166,7 +166,7 @@
       <z>0</z>
       <w>1</w>
     </Rotation>
-    <SetObjectID>10</SetObjectID>
+    <SetObjectID>1011</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.4</BaseVolume>
@@ -190,7 +190,7 @@
       <z>0</z>
       <w>1</w>
     </Rotation>
-    <SetObjectID>9</SetObjectID>
+    <SetObjectID>1012</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.5</BaseVolume>
@@ -214,7 +214,7 @@
       <z>0</z>
       <w>0.999991</w>
     </Rotation>
-    <SetObjectID>8</SetObjectID>
+    <SetObjectID>1013</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.5</BaseVolume>
@@ -238,7 +238,7 @@
       <z>0</z>
       <w>1</w>
     </Rotation>
-    <SetObjectID>13</SetObjectID>
+    <SetObjectID>1014</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.5</BaseVolume>
@@ -262,7 +262,7 @@
       <z>0</z>
       <w>1</w>
     </Rotation>
-    <SetObjectID>11</SetObjectID>
+    <SetObjectID>1015</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.5</BaseVolume>
@@ -286,7 +286,7 @@
       <z>0</z>
       <w>1</w>
     </Rotation>
-    <SetObjectID>7</SetObjectID>
+    <SetObjectID>1016</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.8</BaseVolume>
@@ -300,17 +300,17 @@
     <Radius>7</Radius>
     <Range>10</Range>
     <Position>
-      <x>109.498</x>
-      <y>206.3</y>
-      <z>274.44</z>
+      <x>105.738</x>
+      <y>206.147</y>
+      <z>277.206</z>
     </Position>
     <Rotation>
-      <x>0</x>
-      <y>0</y>
-      <z>0</z>
-      <w>1</w>
+      <x>0.0439748</x>
+      <y>0.312247</y>
+      <z>0.00274003</z>
+      <w>0.94898</w>
     </Rotation>
-    <SetObjectID>12</SetObjectID>
+    <SetObjectID>1017</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.7</BaseVolume>
@@ -324,31 +324,31 @@
     <Radius>17</Radius>
     <Range>20</Range>
     <Position>
-      <x>75.6163</x>
+      <x>76.8077</x>
       <y>206.967</y>
-      <z>250.008</z>
+      <z>249.24</z>
     </Position>
     <Rotation>
       <x>0</x>
-      <y>0</y>
+      <y>0.282256</y>
       <z>0</z>
-      <w>1</w>
+      <w>0.95934</w>
     </Rotation>
-    <SetObjectID>16</SetObjectID>
+    <SetObjectID>1018</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.9</BaseVolume>
     <CueName>side_fire</CueName>
     <FileName>amb_w3</FileName>
     <GroundOffset>0</GroundOffset>
-    <InsideRadius>-5</InsideRadius>
+    <InsideRadius>8</InsideRadius>
     <IntervalTime>5</IntervalTime>
     <IsCastShadow>true</IsCastShadow>
     <IsRegularly>false</IsRegularly>
     <Radius>8</Radius>
     <Range>12</Range>
     <Position>
-      <x>21.6658</x>
+      <x>29.2862</x>
       <y>211.806</y>
       <z>162.537</z>
     </Position>
@@ -358,7 +358,7 @@
       <z>0</z>
       <w>1</w>
     </Rotation>
-    <SetObjectID>14</SetObjectID>
+    <SetObjectID>1019</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.5</BaseVolume>
@@ -370,19 +370,19 @@
     <IsCastShadow>true</IsCastShadow>
     <IsRegularly>false</IsRegularly>
     <Radius>8</Radius>
-    <Range>10</Range>
+    <Range>15</Range>
     <Position>
-      <x>335.662</x>
+      <x>338.056</x>
       <y>153.77</y>
-      <z>-213.991</z>
+      <z>-213.045</z>
     </Position>
     <Rotation>
       <x>0</x>
-      <y>0</y>
+      <y>0.0858464</y>
       <z>0</z>
-      <w>1</w>
+      <w>0.996309</w>
     </Rotation>
-    <SetObjectID>20</SetObjectID>
+    <SetObjectID>1020</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.5</BaseVolume>
@@ -393,12 +393,12 @@
     <IntervalTime>5</IntervalTime>
     <IsCastShadow>true</IsCastShadow>
     <IsRegularly>false</IsRegularly>
-    <Radius>12</Radius>
-    <Range>15</Range>
+    <Radius>17</Radius>
+    <Range>20</Range>
     <Position>
       <x>941.799</x>
       <y>182.285</y>
-      <z>-192.39</z>
+      <z>-194.097</z>
     </Position>
     <Rotation>
       <x>0</x>
@@ -406,7 +406,7 @@
       <z>0</z>
       <w>1</w>
     </Rotation>
-    <SetObjectID>22</SetObjectID>
+    <SetObjectID>1021</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.5</BaseVolume>
@@ -422,7 +422,7 @@
     <Position>
       <x>1013.15</x>
       <y>155.953</y>
-      <z>-208.442</z>
+      <z>-203.578</z>
     </Position>
     <Rotation>
       <x>0</x>
@@ -430,7 +430,7 @@
       <z>0</z>
       <w>1</w>
     </Rotation>
-    <SetObjectID>21</SetObjectID>
+    <SetObjectID>1022</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.5</BaseVolume>
@@ -446,7 +446,7 @@
     <Position>
       <x>1073.75</x>
       <y>138.286</y>
-      <z>-192.817</z>
+      <z>-197.137</z>
     </Position>
     <Rotation>
       <x>0</x>
@@ -454,7 +454,7 @@
       <z>0</z>
       <w>1</w>
     </Rotation>
-    <SetObjectID>18</SetObjectID>
+    <SetObjectID>1023</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.5</BaseVolume>
@@ -478,7 +478,7 @@
       <z>0</z>
       <w>1</w>
     </Rotation>
-    <SetObjectID>15</SetObjectID>
+    <SetObjectID>1024</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.5</BaseVolume>
@@ -494,7 +494,7 @@
     <Position>
       <x>1196.54</x>
       <y>92.6205</y>
-      <z>-207.609</z>
+      <z>-205.117</z>
     </Position>
     <Rotation>
       <x>0</x>
@@ -502,7 +502,7 @@
       <z>0</z>
       <w>1</w>
     </Rotation>
-    <SetObjectID>23</SetObjectID>
+    <SetObjectID>1025</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.8</BaseVolume>
@@ -526,7 +526,7 @@
       <z>0</z>
       <w>1</w>
     </Rotation>
-    <SetObjectID>26</SetObjectID>
+    <SetObjectID>1026</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>1</BaseVolume>
@@ -540,7 +540,7 @@
     <Radius>12</Radius>
     <Range>15</Range>
     <Position>
-      <x>1430.37</x>
+      <x>1424.76</x>
       <y>51.3338</y>
       <z>47.3898</z>
     </Position>
@@ -550,7 +550,7 @@
       <z>0</z>
       <w>1</w>
     </Rotation>
-    <SetObjectID>28</SetObjectID>
+    <SetObjectID>1027</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.5</BaseVolume>
@@ -564,7 +564,7 @@
     <Radius>6</Radius>
     <Range>10</Range>
     <Position>
-      <x>1435.04</x>
+      <x>1422.95</x>
       <y>102.667</y>
       <z>163.87</z>
     </Position>
@@ -574,7 +574,7 @@
       <z>0</z>
       <w>1</w>
     </Rotation>
-    <SetObjectID>30</SetObjectID>
+    <SetObjectID>1028</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.5</BaseVolume>
@@ -588,7 +588,7 @@
     <Radius>8</Radius>
     <Range>10</Range>
     <Position>
-      <x>1431.72</x>
+      <x>1422.59</x>
       <y>102</y>
       <z>189.718</z>
     </Position>
@@ -598,7 +598,31 @@
       <z>0</z>
       <w>1</w>
     </Rotation>
-    <SetObjectID>24</SetObjectID>
+    <SetObjectID>1029</SetObjectID>
+  </SoundPoint>
+  <SoundPoint>
+    <BaseVolume>0.5</BaseVolume>
+    <CueName>side_fire</CueName>
+    <FileName>amb_w3</FileName>
+    <GroundOffset>0</GroundOffset>
+    <InsideRadius>2</InsideRadius>
+    <IntervalTime>5</IntervalTime>
+    <IsCastShadow>true</IsCastShadow>
+    <IsRegularly>false</IsRegularly>
+    <Radius>8</Radius>
+    <Range>10</Range>
+    <Position>
+      <x>1422.22</x>
+      <y>106.834</y>
+      <z>200.214</z>
+    </Position>
+    <Rotation>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+      <w>1</w>
+    </Rotation>
+    <SetObjectID>1030</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.5</BaseVolume>
@@ -622,23 +646,23 @@
       <z>0</z>
       <w>1</w>
     </Rotation>
-    <SetObjectID>31</SetObjectID>
+    <SetObjectID>1031</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.5</BaseVolume>
     <CueName>side_fire</CueName>
     <FileName>amb_w3</FileName>
     <GroundOffset>0</GroundOffset>
-    <InsideRadius>2</InsideRadius>
+    <InsideRadius>10</InsideRadius>
     <IntervalTime>5</IntervalTime>
     <IsCastShadow>true</IsCastShadow>
     <IsRegularly>false</IsRegularly>
-    <Radius>8</Radius>
-    <Range>10</Range>
+    <Radius>17</Radius>
+    <Range>20</Range>
     <Position>
-      <x>1423.42</x>
-      <y>106.834</y>
-      <z>200.214</z>
+      <x>1427.11</x>
+      <y>44.5367</y>
+      <z>-146.974</z>
     </Position>
     <Rotation>
       <x>0</x>
@@ -646,31 +670,7 @@
       <z>0</z>
       <w>1</w>
     </Rotation>
-    <SetObjectID>25</SetObjectID>
-  </SoundPoint>
-  <SoundPoint>
-    <BaseVolume>0.5</BaseVolume>
-    <CueName>side_fire</CueName>
-    <FileName>amb_w3</FileName>
-    <GroundOffset>0</GroundOffset>
-    <InsideRadius>3</InsideRadius>
-    <IntervalTime>5</IntervalTime>
-    <IsCastShadow>true</IsCastShadow>
-    <IsRegularly>false</IsRegularly>
-    <Radius>3</Radius>
-    <Range>6</Range>
-    <Position>
-      <x>1432.66</x>
-      <y>54.0005</y>
-      <z>-155.563</z>
-    </Position>
-    <Rotation>
-      <x>0</x>
-      <y>0</y>
-      <z>0</z>
-      <w>1</w>
-    </Rotation>
-    <SetObjectID>33</SetObjectID>
+    <SetObjectID>1032</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.5</BaseVolume>
@@ -694,7 +694,7 @@
       <z>0</z>
       <w>1</w>
     </Rotation>
-    <SetObjectID>34</SetObjectID>
+    <SetObjectID>1033</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>1</BaseVolume>
@@ -718,7 +718,7 @@
       <z>0</z>
       <w>1</w>
     </Rotation>
-    <SetObjectID>29</SetObjectID>
+    <SetObjectID>1034</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>1</BaseVolume>
@@ -742,7 +742,7 @@
       <z>0</z>
       <w>1</w>
     </Rotation>
-    <SetObjectID>37</SetObjectID>
+    <SetObjectID>1035</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>1</BaseVolume>
@@ -766,7 +766,7 @@
       <z>0</z>
       <w>1</w>
     </Rotation>
-    <SetObjectID>36</SetObjectID>
+    <SetObjectID>1036</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.8</BaseVolume>
@@ -777,20 +777,20 @@
     <IntervalTime>5</IntervalTime>
     <IsCastShadow>true</IsCastShadow>
     <IsRegularly>false</IsRegularly>
-    <Radius>5</Radius>
-    <Range>8</Range>
+    <Radius>12</Radius>
+    <Range>15</Range>
     <Position>
-      <x>99.2723</x>
+      <x>101.723</x>
       <y>207.467</y>
-      <z>279.33</z>
+      <z>277.813</z>
     </Position>
     <Rotation>
       <x>0</x>
-      <y>0</y>
+      <y>0.90566</y>
       <z>0</z>
-      <w>1</w>
+      <w>0.424009</w>
     </Rotation>
-    <SetObjectID>3</SetObjectID>
+    <SetObjectID>1037</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.9</BaseVolume>
@@ -802,11 +802,11 @@
     <IsCastShadow>true</IsCastShadow>
     <IsRegularly>false</IsRegularly>
     <Radius>5</Radius>
-    <Range>8</Range>
+    <Range>15</Range>
     <Position>
       <x>97.2791</x>
       <y>210.467</y>
-      <z>255.327</z>
+      <z>258.085</z>
     </Position>
     <Rotation>
       <x>0</x>
@@ -814,7 +814,7 @@
       <z>0</z>
       <w>1</w>
     </Rotation>
-    <SetObjectID>2</SetObjectID>
+    <SetObjectID>1038</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.8</BaseVolume>
@@ -825,44 +825,44 @@
     <IntervalTime>5</IntervalTime>
     <IsCastShadow>true</IsCastShadow>
     <IsRegularly>false</IsRegularly>
-    <Radius>7</Radius>
-    <Range>10</Range>
+    <Radius>12</Radius>
+    <Range>15</Range>
     <Position>
-      <x>114.723</x>
-      <y>206.3</y>
-      <z>279.405</z>
+      <x>113.308</x>
+      <y>204.799</y>
+      <z>285.589</z>
     </Position>
     <Rotation>
       <x>0</x>
-      <y>0</y>
+      <y>-0.39805</y>
       <z>0</z>
-      <w>1</w>
+      <w>0.917365</w>
     </Rotation>
-    <SetObjectID>4</SetObjectID>
+    <SetObjectID>1039</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.7</BaseVolume>
     <CueName>side_fountain</CueName>
     <FileName>amb_w3</FileName>
     <GroundOffset>0</GroundOffset>
-    <InsideRadius>-9</InsideRadius>
+    <InsideRadius>9</InsideRadius>
     <IntervalTime>5</IntervalTime>
     <IsCastShadow>true</IsCastShadow>
     <IsRegularly>false</IsRegularly>
-    <Radius>4</Radius>
-    <Range>8</Range>
+    <Radius>13</Radius>
+    <Range>15</Range>
     <Position>
-      <x>80.1812</x>
+      <x>75.5246</x>
       <y>205.133</y>
-      <z>232.459</z>
+      <z>236.565</z>
     </Position>
     <Rotation>
       <x>0</x>
-      <y>0</y>
+      <y>-0.411493</y>
       <z>0</z>
-      <w>1</w>
+      <w>0.911414</w>
     </Rotation>
-    <SetObjectID>5</SetObjectID>
+    <SetObjectID>1040</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.7</BaseVolume>
@@ -886,19 +886,19 @@
       <z>0</z>
       <w>1</w>
     </Rotation>
-    <SetObjectID>1</SetObjectID>
+    <SetObjectID>1041</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.8</BaseVolume>
     <CueName>side_fire</CueName>
     <FileName>amb_w3</FileName>
     <GroundOffset>0</GroundOffset>
-    <InsideRadius>-9</InsideRadius>
+    <InsideRadius>10</InsideRadius>
     <IntervalTime>5</IntervalTime>
     <IsCastShadow>true</IsCastShadow>
     <IsRegularly>false</IsRegularly>
-    <Radius>4</Radius>
-    <Range>8</Range>
+    <Radius>16</Radius>
+    <Range>19</Range>
     <Position>
       <x>107.134</x>
       <y>218.967</y>
@@ -910,7 +910,7 @@
       <z>0</z>
       <w>1</w>
     </Rotation>
-    <SetObjectID>8</SetObjectID>
+    <SetObjectID>1042</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.7</BaseVolume>
@@ -934,21 +934,21 @@
       <z>0</z>
       <w>1</w>
     </Rotation>
-    <SetObjectID>7</SetObjectID>
+    <SetObjectID>1043</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.9</BaseVolume>
     <CueName>side_fire</CueName>
     <FileName>amb_w3</FileName>
     <GroundOffset>0</GroundOffset>
-    <InsideRadius>-5</InsideRadius>
+    <InsideRadius>10</InsideRadius>
     <IntervalTime>5</IntervalTime>
     <IsCastShadow>true</IsCastShadow>
     <IsRegularly>false</IsRegularly>
-    <Radius>8</Radius>
-    <Range>12</Range>
+    <Radius>23</Radius>
+    <Range>26</Range>
     <Position>
-      <x>39.4866</x>
+      <x>39.5839</x>
       <y>145.807</y>
       <z>49.4701</z>
     </Position>
@@ -958,7 +958,7 @@
       <z>0</z>
       <w>1</w>
     </Rotation>
-    <SetObjectID>10</SetObjectID>
+    <SetObjectID>1044</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.6</BaseVolume>
@@ -982,7 +982,7 @@
       <z>0</z>
       <w>1</w>
     </Rotation>
-    <SetObjectID>11</SetObjectID>
+    <SetObjectID>1045</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>1</BaseVolume>
@@ -996,8 +996,8 @@
     <Radius>7</Radius>
     <Range>10</Range>
     <Position>
-      <x>1433.92</x>
-      <y>56.3338</y>
+      <x>1426.39</x>
+      <y>58.0292</y>
       <z>-65.8796</z>
     </Position>
     <Rotation>
@@ -1006,7 +1006,7 @@
       <z>0</z>
       <w>1</w>
     </Rotation>
-    <SetObjectID>12</SetObjectID>
+    <SetObjectID>1046</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.5</BaseVolume>
@@ -1021,7 +1021,7 @@
     <Range>10</Range>
     <Position>
       <x>1419.49</x>
-      <y>65.7505</y>
+      <y>68.7943</y>
       <z>-15.2486</z>
     </Position>
     <Rotation>
@@ -1030,7 +1030,7 @@
       <z>0</z>
       <w>1</w>
     </Rotation>
-    <SetObjectID>13</SetObjectID>
+    <SetObjectID>1047</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.9</BaseVolume>
@@ -1054,23 +1054,23 @@
       <z>0</z>
       <w>1</w>
     </Rotation>
-    <SetObjectID>14</SetObjectID>
+    <SetObjectID>1048</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.9</BaseVolume>
     <CueName>side_fire</CueName>
     <FileName>amb_w3</FileName>
     <GroundOffset>0</GroundOffset>
-    <InsideRadius>2</InsideRadius>
+    <InsideRadius>9</InsideRadius>
     <IntervalTime>5</IntervalTime>
     <IsCastShadow>true</IsCastShadow>
     <IsRegularly>false</IsRegularly>
-    <Radius>7</Radius>
-    <Range>10</Range>
+    <Radius>22</Radius>
+    <Range>25</Range>
     <Position>
-      <x>319.503</x>
+      <x>324.943</x>
       <y>151.3</y>
-      <z>-193.512</z>
+      <z>-197.191</z>
     </Position>
     <Rotation>
       <x>0</x>
@@ -1078,7 +1078,7 @@
       <z>0</z>
       <w>1</w>
     </Rotation>
-    <SetObjectID>16</SetObjectID>
+    <SetObjectID>1049</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.9</BaseVolume>
@@ -1102,7 +1102,7 @@
       <z>0</z>
       <w>1</w>
     </Rotation>
-    <SetObjectID>9</SetObjectID>
+    <SetObjectID>1050</SetObjectID>
   </SoundPoint>
   <SoundPoint>
     <BaseVolume>0.8</BaseVolume>
@@ -1126,6 +1126,78 @@
       <z>-0.00872654</z>
       <w>0.999962</w>
     </Rotation>
-    <SetObjectID>142</SetObjectID>
+    <SetObjectID>1051</SetObjectID>
+  </SoundPoint>
+  <SoundPoint>
+    <GroundOffset>0</GroundOffset>
+    <IsCastShadow>false</IsCastShadow>
+    <Range>10</Range>
+    <BaseVolume>0.5</BaseVolume>
+    <CueName>side_fire</CueName>
+    <InsideRadius>10</InsideRadius>
+    <IntervalTime>5</IntervalTime>
+    <FileName>42AMB_GHZ</FileName>
+    <IsRegularly>false</IsRegularly>
+    <Radius>60</Radius>
+    <Position>
+      <x>435.026</x>
+      <y>167.763</y>
+      <z>-220.808</z>
+    </Position>
+    <Rotation>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+      <w>1</w>
+    </Rotation>
+    <SetObjectID>1052</SetObjectID>
+  </SoundPoint>
+  <SoundPoint>
+    <GroundOffset>0</GroundOffset>
+    <IsCastShadow>false</IsCastShadow>
+    <Range>10</Range>
+    <BaseVolume>0.5</BaseVolume>
+    <CueName>side_fire</CueName>
+    <InsideRadius>10</InsideRadius>
+    <IntervalTime>5</IntervalTime>
+    <FileName>42AMB_GHZ</FileName>
+    <IsRegularly>false</IsRegularly>
+    <Radius>60</Radius>
+    <Position>
+      <x>484.303</x>
+      <y>163.264</y>
+      <z>-214.601</z>
+    </Position>
+    <Rotation>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+      <w>1</w>
+    </Rotation>
+    <SetObjectID>1053</SetObjectID>
+  </SoundPoint>
+  <SoundPoint>
+    <GroundOffset>0</GroundOffset>
+    <IsCastShadow>false</IsCastShadow>
+    <Range>15</Range>
+    <BaseVolume>0.4</BaseVolume>
+    <CueName>side_fountain</CueName>
+    <InsideRadius>8</InsideRadius>
+    <IntervalTime>5</IntervalTime>
+    <FileName>42AMB_GHZ</FileName>
+    <IsRegularly>false</IsRegularly>
+    <Radius>60</Radius>
+    <Position>
+      <x>440.847</x>
+      <y>173.156</y>
+      <z>-206.601</z>
+    </Position>
+    <Rotation>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+      <w>1</w>
+    </Rotation>
+    <SetObjectID>1054</SetObjectID>
   </SoundPoint>
 </SetObject>

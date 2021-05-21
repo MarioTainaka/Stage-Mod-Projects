@@ -326,7 +326,7 @@
         <string>Synth/obj_bombing_explosion/obj_bombing_explosion3</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
-      <Volume>500</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -406,7 +406,7 @@
       <SoundElementReference>Synth/obj_bombing_explosion1</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
-      <Volume>500</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -486,7 +486,7 @@
       <SoundElementReference>Synth/obj_bombing_explosion2</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
-      <Volume>500</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -566,7 +566,7 @@
       <SoundElementReference>Synth/obj_bombing_explosion3</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
-      <Volume>500</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
