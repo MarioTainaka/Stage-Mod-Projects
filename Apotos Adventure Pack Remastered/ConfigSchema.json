@@ -16,7 +16,7 @@
                "Type": "UiEnum",
                "MinValue": null,
                "MaxValue": null,
-               "DefaultValue": "core_btnui"
+               "DefaultValue": "core_dummy"
             },
             
             
@@ -54,7 +54,7 @@
                "Type": "NightEnum",
                "MinValue": null,
                "MaxValue": null,
-               "DefaultValue": "core_su_night"
+               "DefaultValue": "core_dummy"
             },
          ]
       }
