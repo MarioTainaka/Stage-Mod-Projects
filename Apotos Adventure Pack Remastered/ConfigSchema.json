@@ -8,7 +8,7 @@
            
              
             {
-               "Name": "IncludeDir4",
+               "Name": "IncludeDir0",
                "DisplayName": "Jump Selector Button Icons",
                "Description": [
                   "Determine the button prompts for the Jump Selectors (Unleashed Objects must be enabled!)",
@@ -22,7 +22,7 @@
             
             
             {
-               "Name": "IncludeDir2",
+               "Name": "IncludeDir3",
                "DisplayName": "Unleashed Physics",
                "Description": [
                   "Enable Unleashed Physics, which drastically changes Sonic's physics such as longer homing attack, air boost and air dash",
@@ -34,7 +34,7 @@
             },
 
             {
-               "Name": "IncludeDir1",
+               "Name": "IncludeDir2",
                "DisplayName": "Unleashed Objects",
                "Description": [
                   "Enable Unleashed objects throughout the stages",
@@ -46,7 +46,7 @@
             },
 			
 			{
-               "Name": "IncludeDir0",
+               "Name": "IncludeDir1",
                "DisplayName": "Hub World Time of Day",
                "Description": [
                   "Experience Apotos Hub world during day time or night time",
