@@ -1,3 +1,13 @@
+## Apotos Adventure Pack 3.5.6
+
+- Fixed a random bug that caused Red Egg Fighters to replace normal ones outside Act 1 and 1-2.
+
+
+## Apotos Adventure Pack 3.5.5
+
+- Fixed a critical bug that caused JumpSelector button icons to always load with Xbox 360 ones regardless of settings.
+
+
 ## Apotos Adventure Pack 3.5.4
 
 - Unleashed's full-scale left stick control is no longer exclusive to Unleashed Physics option, is always available.
