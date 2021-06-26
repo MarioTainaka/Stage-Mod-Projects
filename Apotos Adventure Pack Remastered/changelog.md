@@ -1,3 +1,12 @@
+## Apotos Adventure Pack 3.5.7
+
+- Fixed a bug that caused Spinners to go missing in Act 3 and 4.
+- Unfortunately there is a current bug which makes giant hammer no longer to load regardless of settings. A workaround is being worked on, but no promise with that.
+
+## Apotos Adventure Pack 3.5.6
+
+- Fixed a random bug that caused Red Egg Fighters to replace normal ones outside Act 1 and 1-2.
+
 ## Apotos Adventure Pack 3.5.6
 
 - Fixed a random bug that caused Red Egg Fighters to replace normal ones outside Act 1 and 1-2.
