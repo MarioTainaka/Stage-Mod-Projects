@@ -1,7 +1,7 @@
 ## Apotos Adventure Pack 3.5.7
 
 - Fixed a bug that caused Spinners to go missing in Act 3 and 4.
-- Unfortunately there is a current bug which makes giant hammer no longer to load regardless of settings. A workaround is being worked on, but no promise with that.
+- Unfortunately there is a current bug which makes guillotines always load instead of giant hammers regardless of settings. A workaround is being worked on, but no promise with that.
 
 ## Apotos Adventure Pack 3.5.6
 
