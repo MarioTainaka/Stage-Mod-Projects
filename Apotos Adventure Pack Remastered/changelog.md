@@ -1,7 +1,7 @@
 ## Apotos Adventure Pack 3.6.2
 
 - This hotfix does not contain any new or modified files, but it fixed a server-side issue where a folder is named wrong. Please delete "core_obj" folder in your mod directory if there is one.
-- This should effectively patch most of the changes in 3.6.1.
+- This should patch most of the changes from 3.6.1 properly.
 
 ## Apotos Adventure Pack 3.6.1
 
