@@ -1,3 +1,8 @@
+## Apotos Adventure Pack 4.0.0
+
+- The final major update for the pack is here! It's another restructure so please remove any previous versions you have (including the SHC build) and head to the GameBanana page to download the last major version!
+- Download link with full changelog between versions: https://gamebanana.com/mods/111196
+
 ## Apotos Adventure Pack 3.6.2
 
 - This hotfix does not contain any new or modified files, but it fixed a server-side issue where a folder is named wrong. Please delete "core_obj" folder in your mod directory if there is one.
