@@ -1,5 +1,4 @@
-ATTENTION! Due to some issues, the auto-updater is currently unable to download the update. Please head to GameBanana to download the patch: https://gamebanana.com/mods/111196
-This will be used as an update notice!
+ATTENTION! Due to some issues, the auto-updater is currently unable to download updates properly. Please head to GameBanana to download patches instead: https://gamebanana.com/mods/111196
 
 ## Apotos Adventure Pack 4.0.1
 
