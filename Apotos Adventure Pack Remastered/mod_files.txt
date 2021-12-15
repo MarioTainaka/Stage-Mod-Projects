@@ -1,6 +1,0 @@
-add mod.ini
-add Patches.hmm
-add core_main\disk\bb\#ssz200.ar.00
-add core_main\disk\bb\#ssz200.arl
-add core_main\disk\bb2\#csc200.ar.00
-add core_main\disk\bb2\#csc200.arl
