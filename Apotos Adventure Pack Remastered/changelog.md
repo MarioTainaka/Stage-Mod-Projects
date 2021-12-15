@@ -1,8 +1,10 @@
+ATTENTION! Due to some issues, the auto-updater is currently unable to download the update. Please head to GameBanana to download the patch: https://gamebanana.com/mods/111196
+This will be used as an update notice!
+
 ## Apotos Adventure Pack 4.0.1
 
 - Removed the "Fix Sonic's Leg Swinging Too High" code as it conflicted with the "Restore Right Stick Camera Controls" code.
 - As a result, the L-shaped junction cameras that relied on the code in Act 2 & 2-2 have been altered to avoid freaking out.
-- ATTENTION! Due to some issues, the auto-updater is currently unable to download the update. Please head to GameBanana to download the patch: https://gamebanana.com/mods/111196
 
 ## Apotos Adventure Pack 4.0.0
 
