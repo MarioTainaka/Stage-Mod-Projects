@@ -1,3 +1,5 @@
+ATTENTION! Due to some issues, the auto-updater is currently unable to download updates properly. Please head to GameBanana to download patches instead: https://gamebanana.com/mods/298170
+
 ## Shamar Adventure Pack 2.0.2
 
 - Added support for Chip Returns mod by BrianuuuSonic.
