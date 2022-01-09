@@ -1,0 +1,100 @@
+{
+   "Groups": [
+      {
+         "Name": "Main",
+         "DisplayName": "Options",
+         "Elements": [
+            {
+               "Name": "IncludeDir0",
+               "DisplayName": "Jump Selector Button Icons",
+               "Description": [
+                  "Determine the button prompts for the Jump Selectors",
+               ],
+               "Type": "UiEnum",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "core_dummy"
+            },
+                       
+            {
+               "Name": "IncludeDir2",
+               "DisplayName": "Unleashed Physics",
+               "Description": [
+                  "Enable Unleashed Physics, which drastically changes Sonic's physics such as longer homing attack, air boost and air dash...",
+               ],
+               "Type": "PhysicsEnum",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "core_dummy"
+            },
+			
+			{
+               "Name": "IncludeDir1",
+               "DisplayName": "Hub World Time of Day",
+               "Description": [
+                  "Experience Apotos Hub world during day time or night time",
+               ],
+               "Type": "NightEnum",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "core_dummy"
+            },
+         ]
+      }
+   ],
+   
+   "Enums": {
+      "UiEnum": [
+         {
+            "DisplayName": "PlayStation 3",
+            "Value": "core_btnui",
+            "Description": [
+               "PlayStation 3 button prompts",
+            ]
+         },
+         
+         {
+            "DisplayName": "XBOX 360",
+            "Value": "core_dummy",
+            "Description": [
+               "Xbox 360 button prompts",
+            ]
+         },
+      ],
+	  
+      "PhysicsEnum": [
+         {
+            "DisplayName": "Enable",
+            "Value": "core_su_phy",
+            "Description": [
+               "Enable Unleashed Physics",
+            ]
+         },
+         {
+            "DisplayName": "Disable",
+            "Value": "core_dummy",
+            "Description": [
+               "Disable Unleashed Physics, default Generations physics will be used in all stages",
+            ]
+         },        
+      ],
+	  
+	  "NightEnum": [
+         {
+            "DisplayName": "Night time",
+            "Value": "core_night",
+            "Description": [
+               "Switch Apotos hub to night time",
+            ]
+         },
+		 {
+            "DisplayName": "Day time",
+            "Value": "core_dummy",
+            "Description": [
+               "Switch Apotos hub to day time",
+            ]
+         },
+      ],
+   },
+   "IniFile": "mod.ini"
+}

@@ -1,4 +1,9 @@
-ATTENTION! Due to some issues, the auto-updater is currently unable to download updates properly. Please head to GameBanana to download patches instead: https://gamebanana.com/mods/111196
+ATTENTION! Due to unkonwn issues, the auto-updater is unable to download updates properly. Please head to GameBanana to download instead: https://gamebanana.com/mods/111196
+
+## Apotos Adventure Pack 4.0.2
+
+- Removed a mention of the old layout toggling option in the config.
+- Disabled the auto-updater. Patches will be delivered from GameBanana until servers' issue is fixed to avoid confusions. Which means you need to come check the page every once a while for updates for now.
 
 ## Apotos Adventure Pack 4.0.1
 
